@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/antonio-af">
-  <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=antonio-af&show_icons=true&theme=highcontrast&card_width=50px&include_all_commits=false&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=antonio-af&show_icons=true&theme=highcontrast&card_width=50px&include_all_commits=false&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-af&layout=compact&card_width=400px&hide_progress=false&langs_count=10&theme=highcontrast"/>
 </div>
   
