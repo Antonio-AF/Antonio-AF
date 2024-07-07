@@ -7,21 +7,21 @@
 
 <div align="center">
   <a href="https://github.com/antonio-af">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonio-af&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-af&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=antonio-af&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=true"/>
+  <img height="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-af&layout=normal&card_width&hide_progress=false&langs_count=10&theme=dracula"/>
 </div>
   
-<div style="display: inline_block"><br>  
+<div style="display: inline_block"><br>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/"><img align="center" alt="Logo do C Sharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
+  <a href="https://dotnet.microsoft.com/en-us/download"><img align="center" alt="Logo do Dot Net Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></a>
+  <img align="center" alt="Logo do Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Logo do Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Logo do HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Logo do CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Logo do JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Logo do Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Logo do Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Logo do Flask" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="Logo do R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
-  <img align="center" alt="Logo do R Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
-  <a href="https://dotnet.microsoft.com/en-us/download"><img align="center" alt="Logo do Dot Net Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></a>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/"><img align="center" alt="Logo do C Sharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
+  <img align="center" alt="Logo do R Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">  
   <a href="https://devicon.dev/"><img align="center" alt="Logo do Dev Icons" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg"></a>
 
 
