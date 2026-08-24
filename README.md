@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Antonio Amaral!
 
 - 🔭 Ainda não estou trabalhando na area.
-- 🌱 Estou estudando: Python, Django e Flask Framework, C#, .NET, ASP.NET Core, HTML, CSS3, JavaScript, Arquitetura de Redes e Redes TCP/IP.
+- 🌱 Estou estudando: Python e C++.
 - 👯 Gostaria de colaborar!
 - 🤔 Ajuda e Sugestões são bem vindas!
 
